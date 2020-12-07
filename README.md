@@ -1,0 +1,3 @@
+# pythonpro
+### 介绍
+>项目是测试项目，主要是熟悉python中一些包的运用，目前有requests,wxPython...
